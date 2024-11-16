@@ -22,7 +22,7 @@ This project showcases advanced techniques in C for encrypting sensitive data, o
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/encryption-tool.git
+   git clone https://github.com/MUJ4HID/ENCRYPTER.git
    cd encryption-tool
 Create a keyfile.txt in the root directory and insert your desired encryption key inside it.
 
