@@ -23,7 +23,7 @@ This project showcases advanced techniques in C for encrypting sensitive data, o
 
    ```bash
    git clone https://github.com/MUJ4HID/ENCRYPTER.git
-   cd encryption-tool
+   cd ENCRYPTER
 Create a keyfile.txt in the root directory and insert your desired encryption key inside it.
 
 Compile the code using a C compiler:
